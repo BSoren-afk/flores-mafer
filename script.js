@@ -7,7 +7,6 @@ document.addEventListener("DOMContentLoaded", () => {
     // Mensajes para una hermana, alegres y no románticos
     const messages = [
         "Para la mejor hermana del mundo...",
-        "Que tu día esté lleno de mucha alegría.",
         "Porque siempre estás ahí para apoyarme...",
         "¡Estas flores amarillas son para ti! 🌻💛"
     ];
