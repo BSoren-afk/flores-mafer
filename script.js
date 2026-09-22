@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const messages = [
         "Para la mejor hermana del mundo...",
         "Porque siempre estás ahí para apoyarme...",
-        "¡Estas flores amarillas son para ti! 🌻💛"
+        "¡Te quiero, hermana! 🌻💛"
     ];
 
     // Efecto de máquina de escribir
